@@ -1,0 +1,7 @@
+# Solution to Exercise 01 (No Code)
+
+1. The dataset is loaded using pandas read_csv function.
+2. The first five rows show names, ages, salaries, and departments for the first entries.
+3. The structure reveals four columns: Name, Age, Salary, and Department, with some missing values.
+4. Summary statistics include mean, min, max, std, and quartiles for Age and Salary.
+5. The count of missing values indicates missing Name, Age, and Salary in a few rows.
